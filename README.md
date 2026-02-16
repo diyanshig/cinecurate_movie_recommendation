@@ -21,6 +21,11 @@ Tailwind CSS
 JavaScript (ES6)
 TMDB API
 
+🌐 Live Demo
+🔗 https://cinecurat.netlify.app/
+
+## 📸 Preview
+![CineCurate Preview](preview.png)
 
 👩‍💻 Author
 Diyanshi Gupta
